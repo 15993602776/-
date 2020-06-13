@@ -2,4 +2,5 @@
 
 phpinfo();
 
+return 0;
 
